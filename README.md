@@ -12,9 +12,9 @@ Java, Python, C#, Ruby, SQL, Javascript, CSS, and HTML
 Unity, Cisco Packet Tracer, Rails, Heroku
 
 ### Play some of my science-based games built with C# and Unity here:
-* [katherinenf.github.io/elementalBS]
-* [katherinenf.github.io/weatherpf]
-* [katherinenf.github.io/molecular-manor]
+* [https://katherinenf.github.io/elementalBS]
+* [https://katherinenf.github.io/weatherpf]
+* [https://katherinenf.github.io/molecular-manor]
 
 ### Check out a language learning webapp I created as part of a team using Ruby on Rails here:
-* [nomen-sprudel-9309a0b26ee6.herokuapp.com]
+* [https://nomen-sprudel-9309a0b26ee6.herokuapp.com]
