@@ -14,7 +14,7 @@ Java, Python, C#, Ruby, SQL, Javascript, CSS, and HTML
 Unity, Cisco Packet Tracer, Rails, Heroku
 
 ## Play some of my science-based games built with C# and Unity here:
-* [https://katherinenf.github.io/elementalBS]
+* katherinenf.github.io/elementalBS
 * [https://katherinenf.github.io/weatherpf]
 * [https://katherinenf.github.io/molecular-manor]
 
